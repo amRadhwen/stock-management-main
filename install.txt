@@ -1,0 +1,13 @@
+1- Télécharger et installer "XAMPP"
+2- Décompresser le "fichier stock-management-main" dans "C:\Xampp\htdocs"
+3- Lancer l'application XAMPP
+4- Lancer votre navigateur "Chrome, Firefox...etc"
+5- Tapez "http://localhost/phpmyadmin" dans la barre d'adresse du navigateur puis tapez "Entrer"
+6- Cliquez sur "Import"
+7- Cliquer sur "Choose file" et selectionner le fichier de la base de donnée dans "C:\Xampp\htdocs\stock-management-main\Database\gestion_des_stock.sql"
+8- Attendez l'importation de la base de donnée
+9- Tapez "http://localhost/stock-management-main" dans la barre d'adresse du navigateur puis tapez "Entrer"
+10- La page "Sign in doit être affiché"
+11- Essayer avec le compte d'administrateur par défault:
+    -Email: admin@admin.com
+    -Password: 0000

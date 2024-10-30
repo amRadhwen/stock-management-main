@@ -1,0 +1,17 @@
+--------------------------
+***Utilisation sur "PC"***
+--------------------------
+1- Lancer l'application XAMPP
+2- Démarrer les deux services "APACHE" et "MYSQL"
+3- Ouvrir le navigateur "Google Chrome, Firefox, Microsoft Edge...etc"
+4- Tapez "http://localhost/stock-management-main" dans la barre d'addresses
+
+-------------------------------
+***Utilisation sur "SmartPhone"
+-------------------------------
+1- Creer un poit d'access sans mobile "WIFI"
+4- Ouvrir l'invite de commande
+5- Taper ipconfig et récupérer l'adresse IP du PC dans la carte fournissant le point d'access
+2- Connecter votre téléphone au point d'access
+3- Ouvrir le navigateur et tapez "IP://localhost/stock-management-main"
+
